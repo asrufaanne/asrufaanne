@@ -7,7 +7,7 @@
 - Open to Work Opportunities
 
 ## 💻 Tech Stack
-          ## 🎨 Frontend Development
-              <p align="left">
-                  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind" />
-              </p>
+🎨 Frontend Development
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,bootstrap,tailwind" />
+</p>
