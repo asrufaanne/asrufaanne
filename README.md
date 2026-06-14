@@ -6,12 +6,8 @@
 - Interested in Web Development
 - Open to Work Opportunities
 
-## Skills
-- HTML
-- CSS
-- JavaScript
-- React.js
-- Bootstrap
-- Tailwind CSS
-- Git
-- GitHub
+## 💻 Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind" />
+</p>
